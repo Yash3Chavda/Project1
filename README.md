@@ -18,7 +18,7 @@ The AI-Powered Resume Screening and Ranking System is designed to automate the p
 ### Steps
 1. Clone the repository:
    sh
-   git clone https://github.com/yourusername/ai-resume-screening.git
+   git clone https://github.com/Yash3Chavda/AI-powered-Resume-Screening-and-Ranking-System
    cd ai-resume-screening
    
 2. Set up a virtual environment:
